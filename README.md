@@ -1,2 +1,12 @@
 # walthru2
-Sample repo for walkthru2 of fast.ai course
+
+## Introduction
+
+This is a sample repo for walkthrough of the fast.ai course
+
+## More details:
+
+Here's a list:
+
+- First
+- Second
